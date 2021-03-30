@@ -132,4 +132,4 @@ def add(num1, num2):
 
 -  [ x ] Task 1 completed
 -  [ x ] Task 2 completed
--  [ ] Task 3 incomplete
+-  [ o ] Task 3 incomplete
